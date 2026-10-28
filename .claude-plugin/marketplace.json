@@ -1,0 +1,12 @@
+{
+  "name": "vedutum",
+  "owner": { "name": "EA Digital Solutions e.U.", "email": "office@vedutum.com" },
+  "metadata": { "description": "VEDUTUM for Claude Code: floor plan to measured 3D model, rooms and areas, furnishing, solar layout and share links for architects, planners and developers." },
+  "plugins": [
+    {
+      "name": "vedutum",
+      "source": "./plugins/vedutum",
+      "description": "Connects Claude Code to VEDUTUM (remote MCP server, OAuth) and adds the skill \"floor plan to 3D with VEDUTUM\"."
+    }
+  ]
+}

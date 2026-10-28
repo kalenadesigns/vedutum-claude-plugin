@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "vedutum": { "type": "http", "url": "https://www.vedutum.com/mcp" }
+  }
+}

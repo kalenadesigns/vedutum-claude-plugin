@@ -1,0 +1,11 @@
+{
+  "name": "vedutum",
+  "displayName": "VEDUTUM",
+  "version": "1.0.0",
+  "description": "Floor plan to measured 3D model with VEDUTUM: read a plan from a link, list rooms and areas, furnish, set roof and facade, lay out solar modules, set the site and surroundings, create the client share link.",
+  "author": { "name": "EA Digital Solutions e.U.", "email": "office@vedutum.com", "url": "https://www.vedutum.com" },
+  "homepage": "https://www.vedutum.com/en/ai-assistants",
+  "repository": "https://github.com/vedutum/claude-plugin",
+  "license": "MIT",
+  "keywords": ["architecture", "floor-plan", "3d", "bim", "solar", "real-estate", "mcp"]
+}
