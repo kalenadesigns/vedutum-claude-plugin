@@ -5,7 +5,7 @@ Floor plan to measured 3D model from Claude Code: read a plan from a link, list 
 ## Install
 
 ```
-/plugin marketplace add vedutum/claude-plugin
+/plugin marketplace add kalenadesigns/vedutum-claude-plugin
 /plugin install vedutum@vedutum
 ```
 
